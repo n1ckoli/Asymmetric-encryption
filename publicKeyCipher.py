@@ -1,6 +1,6 @@
 import sys, math
 
-EN_SYMBOLS	= "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 !?@#$%^&*()'\"_+-=[]{}/|\:;.,"
+EN_SYMBOLS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 !?@#$%^&*()'\"_+-=[]{}/|\:;.,"
 
 UA_SYMBOLS = "А а, Б б, В в, Г г, Ґ ґ, Д д, Е е, Є є, Ж ж, З з, И и, І і, Ї ї, Й й, К к, Л л, М м, Н н, О о, П п, Р р, С с, Т т, У у, Ф ф, Х х, Ц ц, Ч ч, Ш ш, Щ щ, ь, Ю ю, Я я !?@#$%^&*()'\"_+-=[]{}/|\:;.,"
 
